@@ -97,4 +97,50 @@ figure{
 
 @media(min-width: 729px) {
     /* Any adjustments for desktop and larger go here. Note these styles will be applied to anything 729px or larger -- so desktop */
+
+    .container{
+      max-width: 745px;
+      display: block;
+      margin: 0 auto;
+    }
+
+    .border{
+      font-size: 200%;
+    }
+
+
+    .date{
+      text-align: left;
+      font-family: 'Heebo', sans-serif;
+      font-size: 20px;
+    }
+
+      h1{
+        font-size: 100px;
+      }
+
+      h2{
+
+        font-size: 55px;
+    }
+
+
+      h3{
+      padding-top: .5px;
+      font-family: 'Spectral SC', serif;
+      text-align: center;
+      border-bottom: solid 1px;
+      font-size: 35px;
+    }
+      figure{
+      font-size: 200%;
+    }
+
+
+
+
+
+
+
+
 }
